@@ -7,14 +7,26 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.",
-        "id": "_g1nXSBng0",
+        "content": "Na mijn middelbare school, in 2015, ben ik gaan doen wat ik op dat moment echt heel erg leuk vond. Muziek maken als dance producer aan de Herman Brood Academie in Utrecht. In die drie jaar op de Herman Brood Academie ben ik er echter achter gekomen dat het mij niet pers\u00e9 om het maken van muziek ging maar <strong>het maken van dingen. </strong>Het kon eigenlijk van alles zijn; een zelfgemaakt meubel, website, logo etc. Hier heb ik uit opgemaakt dat ik eigenlijk het oplossen van problemen heel erg leuk vind om te doen.",
+        "id": "_NRE4pNaRZ",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn\u2019t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way. On her way she met a copy.",
-        "id": "_uRKO7ni0o",
+        "content": "Toen ik mijn studie op de Herman Brood Academie had afgerond ben ik dan ook direct doorgegaan met studeren; <strong>Communicatie &amp; Multimedia Design</strong> aan de Hogeschool Rotterdam. De keuze voor deze studie kon ik vrijwel direct maken toen ik de volgende omschrijving las op de website van de Hogeschool Rotterdam:",
+        "id": "_NMWweGyDH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>\u201cBij de opleiding CMD ziet studeren er anders uit. Als ontwerper zit je weinig in de schoolbanken op de traditionele manier. Je werkt samen met elkaar in de studio, voor </em><strong><em>echte opdrachtgevers</em></strong><em>.</em>",
+        "id": "_8ozWgAkFP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Je ontwerpt </em><strong><em>betekenisvolle interactieve producten</em></strong><em> en </em><strong><em>diensten</em></strong><em> voor de mens. Soms is dat een website of een app, maar het kan ook een interactieve installatie zijn met een sensor of een volledige experience in bijvoorbeeld een winkel.\u201d \u2013 (bron: <a href=\"https://www.hogeschoolrotterdam.nl/opleidingen/bachelor/communication-and-multimedia-design/voltijd/\">https://www.hogeschoolrotterdam.nl/opleidingen/bachelor/communication-and-multimedia-design/voltijd/</a>)</em>",
+        "id": "_imPSCFpC4",
         "type": "paragraph"
     }
 ]
