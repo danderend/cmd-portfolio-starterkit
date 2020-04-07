@@ -1,7 +1,7 @@
 title: thumbnail
 
 accept:
-  mime: image/jpeg, image/png, image/svg
+  mime: image/jpeg, image/png, image/svg, image/gif
 
 columns:
   - width: 1/2
