@@ -12,6 +12,18 @@ Text:
         "type": "paragraph"
     },
     {
+        "attrs": {
+            "guid": "/pages/about/files/img_5091.jpg",
+            "src": "http://192.168.64.2/media/pages/about/3900767881-1587121409/img_5091.jpg",
+            "id": "about/img_5091.jpg",
+            "ratio": 0.8000000000000000444089209850062616169452667236328125,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_wj492i2qr",
+        "type": "image"
+    },
+    {
         "attrs": [],
         "content": "Toen ik mijn studie op de Herman Brood Academie had afgerond ben ik dan ook direct doorgegaan met studeren; <strong>Communicatie &amp; Multimedia Design</strong> aan de Hogeschool Rotterdam. De keuze voor deze studie kon ik vrijwel direct maken toen ik de volgende omschrijving las op de website van de Hogeschool Rotterdam:",
         "id": "_NMWweGyDH",

@@ -1,8 +1,8 @@
-Title: Kunstuitleen Rotterdam
+Title: The Big Apple
 
 ----
 
-Roles: Visual Design, Ideation
+Roles: Webdesign
 
 ----
 
@@ -10,11 +10,48 @@ Duration: Ongoing
 
 ----
 
-Clients: Rotterdam University of Applied Sciences
+Clients: The Big Apple
 
 ----
 
-Deliverables: Doodles, Illustrations
+Deliverables: Website
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "De Big Apple benaderde de mij in de tijd van het corona virus. The Big Apple is een groente/fruit kraam in Rotterdam en omstreken. Omdat zij vanwege het corona virus niet meer op elke markt konden staan waar ze normaal stonden wilden zij hun producten online gaan verkopen.",
+        "id": "_pjx2lal0u",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Je denkt hierbij waarschijnlijk direct aan een webshop, echter wilde de opdrachtgever dit niet. De reden hiervoor was dat ze het simpeler wilde houden dan een webshop vanwege hun redelijk oude doelgroep. De doelgroep moest gewoon de prijzen kunnen zien en hierbij een lijstje invullen met wat ze wilden hebben.",
+        "id": "_cgws9sve4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_ex4xi5q0j",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/screenshot-2020-04-17-at-12.50.50.png",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/1855368987-1587120678/screenshot-2020-04-17-at-12.50.50.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/screenshot-2020-04-17-at-12.50.50.png",
+            "ratio": 1.766871165644171792763472694787196815013885498046875,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_fhic8ep7g",
+        "type": "image"
+    }
+]
 
 ----
 

@@ -2,7 +2,7 @@ Title: Mijn NRC
 
 ----
 
-Roles: Interaction design, visual design, usability research & testing
+Roles: UX/UI Design
 
 ----
 
@@ -14,7 +14,7 @@ Clients: NRC
 
 ----
 
-Deliverables: Empathymap, Wireframes, Persona's
+Deliverables: Wireframes / Funnel
 
 ----
 
@@ -23,118 +23,117 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Heading 1",
-        "id": "_8mgii7n73",
-        "type": "h1"
-    },
-    {
-        "attrs": [],
-        "content": "Heading 2",
-        "id": "_mvbw9p8m5",
+        "content": "Introductie",
+        "id": "_9jICu6cuu",
         "type": "h2"
     },
     {
         "attrs": [],
-        "content": "Heading 3",
-        "id": "_yxpdwjzuk",
-        "type": "h3"
+        "content": "<strong>Opdrachtgever:</strong> NRC<br><strong>Mijn rol:</strong> UX/UI Designer",
+        "id": "_d41vs7dzD",
+        "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Bullet list",
-        "id": "_kv7cm8v9d",
-        "type": "ul"
-    },
-    {
-        "attrs": {
-            "indent": 0
-        },
-        "content": "Bullet list",
-        "id": "_08ifj03rw",
-        "type": "ul"
-    },
-    {
-        "attrs": {
-            "indent": 0
-        },
-        "content": "Bullet list",
-        "id": "_kjtk0ujrw",
-        "type": "ul"
+        "content": "<strong>Periode: </strong>13-09-2019 tot 07-02-2010<br><strong>Team</strong>/Individueel",
+        "id": "_notIDPfF5",
+        "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "This is a quote, don't you think?",
-        "id": "_cwnjhuy68",
-        "type": "blockquote"
+        "content": "<strong>Probleem/ontwerpvraag:</strong><br>Hoe zorgen we voor een optimale onboarding periode in de eerste 14 dagen van een abonnement, met daarin speciale aandacht voor de digitale gebruikerservaring. Deze onboarding moet aansluiten bij de persoonlijke wensen en voorkeuren van de abonnee.",
+        "id": "_QLTCBEZ9J",
+        "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Numbered list",
-        "id": "_nfbhfl436",
-        "type": "ol"
-    },
-    {
-        "attrs": {
-            "indent": 0
-        },
-        "content": "Numbered list",
-        "id": "_03nv0yced",
-        "type": "ol"
-    },
-    {
-        "attrs": {
-            "indent": 0
-        },
-        "content": "Numbered list",
-        "id": "_7rfdykoe8",
-        "type": "ol"
+        "content": "<strong>Wat heb ik geleerd?<br></strong>\u2013 Wireframing<br>\u2013 Funnel in kaart brengen<br>\u2013 Samenwerken/sparren in team",
+        "id": "_DKoatsSb3",
+        "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "",
-        "id": "_n69m23272",
-        "type": "hr"
+        "content": "Onderzoek",
+        "id": "_BhKk59CRJ",
+        "type": "h2"
     },
     {
         "attrs": [],
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "id": "_5o4r373i6",
+        "content": "Na een aantal weken onderzoek onderzoek met <strong>ori\u00ebnterende desk research</strong>en <strong>observaties </strong>samen met mijn team heb ik in de rol <strong>\u2018UX researcher\u2019</strong> besloten zelf lid te worden van NRC. Dit omdat ik mij op deze manier goed kon <strong>inleven</strong>in de \u2018nieuwe\u2019 NRC gebruiker, mijn doel van het afsluiten van het abonnement was om een <strong>funnel</strong> in kaart te brengen van de huidige onboarding periode van NRC.",
+        "id": "_TxrIkt4yp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Mijn conclusie van het gemaakte funnel is dat NRC te weinig (persoonlijke) aandacht schenkt aan de nieuwe abonnees. Om te controleren of een nieuwe abonnee/gebruiker daar \u00fcberhaupt wel behoefte aan heeft heb ik een <strong>creatieve sessie</strong> met krantenlezers georganiseerd.",
+        "id": "_ddXkuxXdS",
         "type": "paragraph"
     },
     {
         "attrs": {
-            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/16-9-dummy.jpg",
-            "src": "http://localhost:8888/cmd-portfolio-starterkit/media/pages/projects/designing-the-perfect-onboarding-process/2572562093-1579364703/16-9-dummy.jpg",
-            "id": "projects/designing-the-perfect-onboarding-process/16-9-dummy.jpg",
-            "ratio": 1.7777777777777777,
-            "caption": "Caption yeah!"
+            "src": "https://danielstoopendaal.nl/wp-content/uploads/2020/03/funnel-nrc-1024x729.png",
+            "alt": "",
+            "link": null,
+            "caption": "",
+            "ratio": 1.4058577405857739517358595549012534320354461669921875
         },
         "content": "",
-        "id": "_u394bdt1a",
+        "id": "_TR9i7ySXe",
         "type": "image"
     },
     {
         "attrs": {
-            "src": "https://youtu.be/Qb7dPpDDgq8",
-            "caption": "Caption yeah!"
+            "src": "https://danielstoopendaal.nl/wp-content/uploads/2020/03/schetsen-1024x729.png",
+            "alt": "",
+            "link": null,
+            "caption": "",
+            "ratio": 1.4058577405857739517358595549012534320354461669921875
         },
         "content": "",
-        "id": "_k2lm3y32f",
-        "type": "video"
+        "id": "_KgEFyubTB",
+        "type": "image"
     },
     {
         "attrs": [],
-        "content": "I don't know what this is?",
-        "id": "_r7s0ov601",
-        "type": "kirbytext"
+        "content": "Wireframes",
+        "id": "_mExAF7X1E",
+        "type": "h2"
     },
     {
-        "attrs": {
-            "language": "css"
-        },
-        "content": "And what should this be?",
-        "id": "_ymeh8uuyc",
-        "type": "code"
+        "attrs": [],
+        "content": "De <strong>wireframes</strong> heb ik gebruikt als basis voor het <strong>(low-fid) prototype</strong>. Omdat ik begonnen ben met schetsen kan ik al <strong>itererend</strong> doelgericht verschillende prototypes uitwerken. In de verschillende iteraties zijn feedback en testresultaten van zowel <strong>gebruiker</strong> als <strong>opdrachtgever</strong> meegenomen en verwerkt.",
+        "id": "_2LnzGPoxT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "De schetsen zijn gemaakt met de \u20184 minute wireframing\u2019 methode. Dit wil zeggen dat je (voor 4 schermen) \u00e9\u00e9n minuut per scherm hebt om een wireframe te maken. Zo denk je niet te lang na om bepaalde keuzes te maken.",
+        "id": "_W2Zt03e8k",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Eindresultaat",
+        "id": "_NNfDLNPi2",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Bij \u2018Mijn NRC\u2019 kun je aan het begin van je abonnement de NRC app configureren. Je kunt je favoriete onderwerpen, op je favoriete platform (NRC app, website en/of podcast) selecteren. Zo ben jij met \u00e9\u00e9n klik bij de artikelen de jij interessant vindt. Om niet in een \u2018nieuws bubbel\u2019 te raken worden er door middel van <strong>artificial intelligence </strong>artikelen met raakvlakken voor je gesuggereerd.",
+        "id": "_Wcpp7k2Db",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "De instellingen die je bij de configuratie gekozen hebt kun je later bij \u2018instellingen\u2019 altijd nog aanpassen.",
+        "id": "_TWelTRuGB",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u2013 Mijn NRC, persoonlijk nieuws voor iedereen.",
+        "id": "_dJwz3loZC",
+        "type": "paragraph"
     }
 ]
 

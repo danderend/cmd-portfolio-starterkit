@@ -15,17 +15,52 @@ h2{
 	color:white;
 }
 
+a{
+    color: white;
+}
+
+a:hover{
+    color: whitesmoke;
+}
+
 .lead{
 	color:white;
 }
 
+.navbar-nav a {
+    color: white;
+
+}
+
+.border-top{
+    padding-top: 50px;
+    padding-bottom: 25px;;
+}
+
 .navbar {
+    background-color: white;
 	color: white;
-    height: 150px;
+    height: 100px;
     padding-left: 10%;
     padding-right: 10%;
     vertical-align: middle;
 }
+
+.navbar-light .navbar-brand{
+    color: #EE803D;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: #EE803D;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+
+
 
 .container {
     padding: 0px;
@@ -60,26 +95,52 @@ margin-top: 100px;
 	color: #EE803D;
 }
 
+.btn:hover {
+    margin-top: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+	border-radius: 50rem;
+	border-color: #E69D70;
+	background-color: #E69D70;
+	color: white;
+}
+
 .btn-outline-primary{
+    margin-top: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+	border-radius: 50rem;
+	border-color: white;
 	color: white;
 	background-color: #EE803D;
 }
 
+.btn-outline-primary:hover{
+    margin-top: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+	border-radius: 50rem;
+	border-color: #E69D70;
+    background-color: #E69D70;
 
+}
 
-/* animatie van het zwaaiende handje */
-.wave {   animation-name: wave-animation;
-    animation-duration: 2.5s;
-    animation-iteration-count: infinite;
-    transform-origin: 70% 70%;
-    display: inline-block;}
-    @keyframes wave-animation {
-      0% { transform: rotate(  0.0deg) }
-     10% { transform: rotate(-10.0deg) }
-     20% { transform: rotate( 12.0deg) }
-     30% { transform: rotate(-10.0deg) }
-     40% { transform: rotate(  9.0deg) }
-     50% { transform: rotate(  0.0deg) }
-    100% { transform: rotate(  0.0deg) }}
+.h-100{
+    padding: 10px;
+    margin-right: 50px;
+    border-radius: 10px;
+}
 
-	/* einde animatie handje */
+.h-100 a{
+    color: #EE803D;
+}
+
+.card-img-top{
+    border-radius: 10px;
+}

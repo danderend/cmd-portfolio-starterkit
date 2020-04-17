@@ -1,0 +1,72 @@
+Title: Terugblik Portfolio Pilot
+
+----
+
+Date: 2020-04-17
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Start",
+        "id": "_e8cdspaje",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "Toen ik te horen kreeg dat er een keuzevak portfolio bouwen werd ge\u00efntroduceerd heb ik mij direct aangemeld. Ik heb vroeger al wat met HTML/CSS gespeeld maar dit een tijdje links van mij laten liggen. Het ideale moment om dit weer op te pakken was dus nu.",
+        "id": "_lp6ffyfh5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_x6q7a5c3z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Reflectie",
+        "id": "_u8ahiehhu",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "Het keuzevak vond ik erg interessant, hoewel de start wat chaotisch was zijn we uiteindelijk redelijk geordend te werk gegaan.",
+        "id": "_mgwnzbj4d",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "De manier van werken vond ik heel fijn. Dat je een basis hebt die je met je custom css kunt overschrijven, als je een fout maakt haal je puur je laatst toegevoegde tekst weg en het is weer normaal. Ondanks dat je van een basis werkt kun je toch heel vrij ontwerpen en alle kanten op.",
+        "id": "_bwhl309sy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Met dit keuzevak heb ik mijn html/css skills weer opgehaald en uitgebreid, ik denk niet dat ik voor een Kirby CMS zou kiezen om mijn portfolio op te laten zien, wel is het heel handig om met html/css te oefenen.",
+        "id": "_fl3f7bgt6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Mijn keuze blijft toch bij Wordpress omdat je hier goede plugins hebt om je portfolio uit te breiden.",
+        "id": "_7wwbsan1u",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ik vond het erg leuk en zou het aanbevelen bij andere leerlingen!",
+        "id": "_3bvpl3zvj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_wkegmhf0k",
+        "type": "paragraph"
+    }
+]

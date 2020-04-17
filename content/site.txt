@@ -10,7 +10,15 @@ Email: info@danielstoopendaal.nl
 
 ----
 
-Social: 
+Social:
+
+- 
+  platform: Instagram
+  url: http://instagram.com/danielstoopendaal
+- 
+  platform: LinkedIn
+  url: >
+    https://www.linkedin.com/in/danielstoopendaal/
 
 ----
 

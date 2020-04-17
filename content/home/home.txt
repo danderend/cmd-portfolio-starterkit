@@ -2,8 +2,8 @@ Title: Home
 
 ----
 
-Introductiontitle: <span class="wave">&#128075;</span> Hoi! Leuk je te ontmoeten!
+Introductiontitle: Hoi! Welkom op mijn portfolio!
 
 ----
 
-Introductiontext: Momenteel ben ik tweedejaars Communicatie & Multimedia Design student aan de Hogeschool Rotterdam.
+Introductiontext: Momenteel ben ik tweedejaars Communicatie & Multimedia Design student aan de Hogeschool Rotterdam. Op zoek naar een UX/UI design uitdaging.
